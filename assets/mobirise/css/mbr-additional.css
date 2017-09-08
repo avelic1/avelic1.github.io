@@ -4,101 +4,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-#dropdown-menu-2btn-0 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-0 .navbar-brand a {
-  font-family: 'Roboto', sans-serif;
-  font-size: 32px;
-}
-#dropdown-menu-2btn-0 .nav .link,
-#dropdown-menu-2btn-0 .dropdown-item {
-  font-size: 1em;
-  color: #000000;
-  font-family: 'Noto Sans', sans-serif;
-}
-#dropdown-menu-2btn-0 .navbar,
-#dropdown-menu-2btn-0 .dropdown-menu {
-  background: #eeeeee;
-}
-#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-0 .dropdown-menu a:hover,
-#dropdown-menu-2btn-0 .dropdown-menu a:focus {
-  background: #e4e4e4;
-}
-#dropdown-menu-2btn-0 .navbar-toggler {
-  color: #000000;
-}
-#header4-1 H1 {
-  text-align: center;
-  font-size: 46px;
-  font-family: 'Roboto', sans-serif;
-  color: #303f9f;
-}
-#header4-1 B {
-  color: #fff176;
-  font-family: 'Roboto', sans-serif;
-}
-#footer1-1z P {
-  font-family: 'Roboto', sans-serif;
-  font-size: 12px;
-}
-#header3-4 H3 {
-  font-size: 24px;
-  text-align: center;
-  font-family: 'Noto Sans', sans-serif;
-}
-#header3-4 SMALL {
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 12px;
-}
-#buttons1-2k .btn {
-  font-size: 14px;
-  font-family: 'Noto Sans', sans-serif;
-}
-#msg-box4-e .mbr-section-title {
-  text-align: center;
-  font-size: 24px;
-  font-family: 'Noto Sans', sans-serif;
-}
-#msg-box4-e .lead P {
-  text-align: center;
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 12px;
-}
-#social-buttons1-b .mbr-section-title {
-  font-size: 20px;
-  color: #000000;
-  font-family: 'Noto Sans', sans-serif;
-}
-#contacts2-9 STRONG {
-  text-align: left;
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 16px;
-}
-#contacts2-9 P {
-  font-family: 'Roboto', sans-serif;
-  font-size: 14px;
-}
-#contacts2-9 SPAN {
-  font-size: 14px;
-}
-#contacts2-9 B {
-  font-size: 14px;
-}
-
-
-
-
 #dropdown-menu-2btn-h .hide-buttons [data-button] {
   display: none !important;
 }
@@ -1036,4 +941,99 @@
 }
 #msg-box1-3k SPAN {
   font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .navbar-brand a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Noto Sans', sans-serif;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #eeeeee;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #e4e4e4;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #000000;
+}
+#header4-1 H1 {
+  text-align: center;
+  font-size: 46px;
+  font-family: 'Roboto', sans-serif;
+  color: #303f9f;
+}
+#header4-1 B {
+  color: #fff176;
+  font-family: 'Roboto', sans-serif;
+}
+#footer1-1z P {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+#header3-4 H3 {
+  font-size: 24px;
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#header3-4 SMALL {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 12px;
+}
+#buttons1-2k .btn {
+  font-size: 14px;
+  font-family: 'Noto Sans', sans-serif;
+}
+#msg-box4-e .mbr-section-title {
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Noto Sans', sans-serif;
+}
+#msg-box4-e .lead P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 12px;
+}
+#social-buttons1-b .mbr-section-title {
+  font-size: 20px;
+  color: #000000;
+  font-family: 'Noto Sans', sans-serif;
+}
+#contacts2-9 STRONG {
+  text-align: left;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+}
+#contacts2-9 P {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+#contacts2-9 SPAN {
+  font-size: 14px;
+}
+#contacts2-9 B {
+  font-size: 14px;
 }
